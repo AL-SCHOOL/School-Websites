@@ -1,5 +1,5 @@
 body {
-  background-color: #cccccc;
+  background-color: #404040;
 }
 
 header {
@@ -13,6 +13,6 @@ nav {
 }
 
 aside {
-  background-color: #404040;
+  background-color: #cccccc;
   padding: 30px;
 }
