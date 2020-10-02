@@ -1,18 +1,18 @@
 body {
-  background-color: #800000;
+  background-color: #404040;
 }
 
 header {
-  background-color: #ff4d4d;
+  background-color: #a6a6a6;
   padding: 15px;
 }
   
 nav {
-  background-color: #ff0000;
+  background-color: #808080;
   padding: 5px;
 }
 
 aside {
-  background-color: #ff9999;
+  background-color: #cccccc;
   padding: 30px;
 }
