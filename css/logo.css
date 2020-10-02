@@ -1,7 +1,7 @@
-nav {
-  float: left;
-}
-
 h1 {
   text-align: center;
+}
+
+div.navbutton {
+  float: left;
 }
