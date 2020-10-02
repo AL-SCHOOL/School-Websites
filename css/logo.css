@@ -1,8 +1,8 @@
-h1 {
-  text-align: center;
+nav {
+  float: left;
 }
 
-div.navbutton {
-  float: left;
-  padding: 5px;
+
+h1 {
+  text-align: center;
 }
