@@ -1,0 +1,19 @@
+body {
+  background-color: #800000;
+}
+
+header {
+  background-color: #ff4d4d;
+  padding: 15px;
+}
+
+nav {
+  background-color: #ff0000;
+  text-align: left;
+  padding: 5px;
+}
+
+aside {
+  background-color: #ff9999;
+  padding: 30px;
+}
