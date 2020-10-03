@@ -13,6 +13,7 @@ nav {
   
 nav {
   background-color: #808080;
+  float: left;
   padding: 5px;
 }
 
