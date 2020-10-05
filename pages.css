@@ -11,7 +11,8 @@ nav {
   background-color: #808080;
   text-align: left;
   padding: 5px;
-  overflow: scroll;
+  overflow-x: scroll;
+  overflow-y: hidden;
 }
 
 aside {
