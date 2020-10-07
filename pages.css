@@ -24,8 +24,10 @@ h1 {
 
 .navigation {
   background-color: #808080;
+  border: none;
   color: #ffffff;
   padding: 5px;
+  margin: -2px;
   text-align: center;
   cursor: pointer;
 }
