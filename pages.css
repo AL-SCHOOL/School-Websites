@@ -21,3 +21,15 @@ aside {
 h1 {
   text-align: center;
 }
+
+.navigation {
+  background-color: #808080;
+  color: #ffffff;
+  padding: 5px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.navigation:hover {
+  background-color: #404040;
+}
