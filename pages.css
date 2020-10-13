@@ -21,17 +21,3 @@ aside {
 h1 {
   text-align: center;
 }
-
-.navigation {
-  background-color: #808080;
-  border: none;
-  color: #ffffff;
-  padding: 5px 20px;
-  margin: -1px;
-  text-align: center;
-  cursor: pointer;
-}
-
-.navigation:hover {
-  background-color: #404040;
-}
