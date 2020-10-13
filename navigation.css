@@ -1,0 +1,119 @@
+/* Home */
+.home {
+  background-color: #808080;
+  border: none;
+  color: #ffffff;
+  padding: 5px 20px;
+  margin: -1px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.home:hover {
+  background-color: #404040;
+}
+
+/* Science */
+.science {
+  background-color: #808080;
+  border: none;
+  color: #ffffff;
+  padding: 5px 20px;
+  margin: -1px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.science:hover {
+  background-color: #404040;
+}
+
+/* Freshman Advisory */
+.freshman-advisory {
+  background-color: #808080;
+  border: none;
+  color: #ffffff;
+  padding: 5px 20px;
+  margin: -1px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.freshman-advisory:hover {
+  background-color: #404040;
+}
+
+/* English */
+.english {
+  background-color: #808080;
+  border: none;
+  color: #ffffff;
+  padding: 5px 20px;
+  margin: -1px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.english:hover {
+  background-color: #404040;
+}
+
+/* Band */
+.band {
+  background-color: #808080;
+  border: none;
+  color: #ffffff;
+  padding: 5px 20px;
+  margin: -1px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.band:hover {
+  background-color: #404040;
+}
+
+/* History */
+.history {
+  background-color: #808080;
+  border: none;
+  color: #ffffff;
+  padding: 5px 20px;
+  margin: -1px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.history:hover {
+  background-color: #404040;
+}
+
+/* Spanish */
+.spanish {
+  background-color: #808080;
+  border: none;
+  color: #ffffff;
+  padding: 5px 20px;
+  margin: -1px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.spanish:hover {
+  background-color: #404040;
+}
+
+/* Algebra */
+.algebra {
+  background-color: #808080;
+  border: none;
+  color: #ffffff;
+  padding: 5px 20px;
+  margin: -1px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.algebra:hover {
+  background-color: #404040;
+}
