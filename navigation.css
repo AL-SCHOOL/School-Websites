@@ -12,6 +12,9 @@
   background-color: #404040;
   color: #ffffff;
 }
+.home:active {
+  border-style: none;
+}
 
 /* Science */
 .science {
@@ -27,6 +30,9 @@
   background-color: #404040;
   color: #cc80ff;
 }
+.science:active {
+  border-style: none;
+}
 
 /* Freshman Advisory */
 .freshman-advisory {
@@ -40,7 +46,10 @@
 }
 .freshman-advisory:hover {
   background-color: #404040;
-  color: #ffffff;
+  color: #80ffff;
+}
+.freshman-advisory:active {
+  border-style: none;
 }
 
 /* English */
@@ -57,6 +66,9 @@
   background-color: #404040;
   color: #ff8080;
 }
+.english:active {
+  border-style: none;
+}
 
 /* Band */
 .band {
@@ -70,7 +82,10 @@
 }
 .band:hover {
   background-color: #404040;
-  color: #ffffff;
+  color: #ffff80;
+}
+.band:active {
+  border-style: none;
 }
 
 /* History */
@@ -87,6 +102,9 @@
   background-color: #404040;
   color: #80ff80;
 }
+.history:active {
+  border-style: none;
+}
 
 /* Spanish */
 .spanish {
@@ -102,6 +120,9 @@
   background-color: #404040;
   color: #ffbf80;
 }
+.spanish:active {
+  border-style: none;
+}
 
 /* Algebra */
 .algebra {
@@ -116,4 +137,7 @@
 .algebra:hover {
   background-color: #404040;
   color: #80bfff;
+}
+.algebra:active {
+  border-style: none;
 }
