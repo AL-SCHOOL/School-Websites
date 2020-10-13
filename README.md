@@ -6,6 +6,6 @@
 ## To Do
 - Create different sections for each catagory.
 - Switch Hyperlinks with images.
-- Change navigation buttons
+- Change navigation buttons.
   - Different colors for each subject.
   - Get rid of the boarder around the buttons.
