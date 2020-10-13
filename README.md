@@ -3,7 +3,7 @@
 - This website is specifically made just for me and is not intended for other users.
 - Website links will change every semester, depending on my classes.
 
-## To Do
+# To Do
 - Create different sections for each catagory.
 - Switch Hyperlinks with images.
 - Change navigation buttons.
