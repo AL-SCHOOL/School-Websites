@@ -13,7 +13,7 @@
   color: #ffffff;
 }
 .home:active {
-  border-style: none;
+  border: none;
 }
 
 /* Science */
@@ -31,7 +31,7 @@
   color: #cc80ff;
 }
 .science:active {
-  border-style: none;
+  border: none;
 }
 
 /* Freshman Advisory */
@@ -49,7 +49,7 @@
   color: #80ffff;
 }
 .freshman-advisory:active {
-  border-style: none;
+  border: none;
 }
 
 /* English */
@@ -67,7 +67,7 @@
   color: #ff8080;
 }
 .english:active {
-  border-style: none;
+  border: none;
 }
 
 /* Band */
@@ -85,7 +85,7 @@
   color: #ffff80;
 }
 .band:active {
-  border-style: none;
+  border: none;
 }
 
 /* History */
@@ -103,7 +103,7 @@
   color: #80ff80;
 }
 .history:active {
-  border-style: none;
+  border: none;
 }
 
 /* Spanish */
@@ -121,7 +121,7 @@
   color: #ffbf80;
 }
 .spanish:active {
-  border-style: none;
+  border: none;
 }
 
 /* Algebra */
@@ -139,5 +139,5 @@
   color: #80bfff;
 }
 .algebra:active {
-  border-style: none;
+  border: none;
 }
