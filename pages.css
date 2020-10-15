@@ -6,3 +6,8 @@ aside {background-color: #cccccc; padding: 30px;}
 
 /* Headers */
 h1 {text-align: center;}
+
+/* Dividers */
+div.dublin {border: 2px; padding: 10px;}
+div.google {border: 2px; padding: 10px;}
+div.games {border: 2px; padding: 10px;}
