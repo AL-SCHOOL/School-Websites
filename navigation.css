@@ -1,143 +1,39 @@
 /* Home */
-.home {
-  background-color: #808080;
-  border: none;
-  color: #ffffff;
-  padding: 5px 20px;
-  margin: -1px;
-  text-align: center;
-  cursor: pointer;
-}
-.home:hover {
-  background-color: #404040;
-  color: #ffffff;
-}
-.home:active {
-  border: none;
-}
+.home {background-color: #808080; border: none; color: #ffffff; padding: 5px 20px; margin: -1px; text-align: center; cursor: pointer;}
+.home:hover {background-color: #404040; color: #ffffff;}
+.home:active {border: none;}
 
 /* Science */
-.science {
-  background-color: #808080;
-  border: none;
-  color: #ffffff;
-  padding: 5px 20px;
-  margin: -1px;
-  text-align: center;
-  cursor: pointer;
-}
-.science:hover {
-  background-color: #404040;
-  color: #cc80ff;
-}
-.science:active {
-  border: none;
-}
+.science {background-color: #808080; border: none; color: #ffffff; padding: 5px 20px; margin: -1px; text-align: center; cursor: pointer;}
+.science:hover {background-color: #404040; color: #cc80ff;}
+.science:active {border: none;}
 
 /* Freshman Advisory */
-.freshman-advisory {
-  background-color: #808080;
-  border: none;
-  color: #ffffff;
-  padding: 5px 20px;
-  margin: -1px;
-  text-align: center;
-  cursor: pointer;
-}
-.freshman-advisory:hover {
-  background-color: #404040;
-  color: #80ffff;
-}
-.freshman-advisory:active {
-  border: none;
-}
+.freshman-advisory {background-color: #808080; border: none; color: #ffffff; padding: 5px 20px; margin: -1px; text-align: center; cursor: pointer;}
+.freshman-advisory:hover {background-color: #404040; color: #80ffff;}
+.freshman-advisory:active {border: none;}
 
 /* English */
-.english {
-  background-color: #808080;
-  border: none;
-  color: #ffffff;
-  padding: 5px 20px;
-  margin: -1px;
-  text-align: center;
-  cursor: pointer;
-}
-.english:hover {
-  background-color: #404040;
-  color: #ff8080;
-}
-.english:active {
-  border: none;
-}
+.english {background-color: #808080; border: none; color: #ffffff; padding: 5px 20px; margin: -1px; text-align: center; cursor: pointer;}
+.english:hover {background-color: #404040; color: #ff8080;}
+.english:active {border: none;}
 
 /* Band */
-.band {
-  background-color: #808080;
-  border: none;
-  color: #ffffff;
-  padding: 5px 20px;
-  margin: -1px;
-  text-align: center;
-  cursor: pointer;
-}
-.band:hover {
-  background-color: #404040;
-  color: #ffff80;
-}
-.band:active {
-  border: none;
-}
+.band {background-color: #808080; border: none; color: #ffffff; padding: 5px 20px; margin: -1px; text-align: center; cursor: pointer;}
+.band:hover {background-color: #404040; color: #ffff80;}
+.band:active {border: none;}
 
 /* History */
-.history {
-  background-color: #808080;
-  border: none;
-  color: #ffffff;
-  padding: 5px 20px;
-  margin: -1px;
-  text-align: center;
-  cursor: pointer;
-}
-.history:hover {
-  background-color: #404040;
-  color: #80ff80;
-}
-.history:active {
-  border: none;
-}
+.history {background-color: #808080; border: none; color: #ffffff; padding: 5px 20px; margin: -1px; text-align: center; cursor: pointer;}
+.history:hover {background-color: #404040; color: #80ff80;}
+.history:active {border: none;}
 
 /* Spanish */
-.spanish {
-  background-color: #808080;
-  border: none;
-  color: #ffffff;
-  padding: 5px 20px;
-  margin: -1px;
-  text-align: center;
-  cursor: pointer;
-}
-.spanish:hover {
-  background-color: #404040;
-  color: #ffbf80;
-}
-.spanish:active {
-  border: none;
-}
+.spanish {background-color: #808080; border: none; color: #ffffff; padding: 5px 20px; margin: -1px; text-align: center; cursor: pointer;}
+.spanish:hover {background-color: #404040; color: #ffbf80;}
+.spanish:active {border: none;}
 
 /* Algebra */
-.algebra {
-  background-color: #808080;
-  border: none;
-  color: #ffffff;
-  padding: 5px 20px;
-  margin: -1px;
-  text-align: center;
-  cursor: pointer;
-}
-.algebra:hover {
-  background-color: #404040;
-  color: #80bfff;
-}
-.algebra:active {
-  border: none;
-}
+.algebra {background-color: #808080; border: none; color: #ffffff; padding: 5px 20px; margin: -1px; text-align: center; cursor: pointer;}
+.algebra:hover {background-color: #404040; color: #80bfff;}
+.algebra:active {border: none;}
