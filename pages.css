@@ -8,6 +8,6 @@ aside {background-color: #cccccc; padding: 30px;}
 h1 {text-align: center;}
 
 /* Dividers */
-div.dublin {border: 2px; padding: 10px; float: left;}
-div.google {border: 2px; padding: 10px; float: left;}
-div.games {border: 2px; padding: 10px; float: left;}
+div.dublin {background-color: #cccccc; border: 2px solid; padding: 10px; float: left;}
+div.google {background-color: #cccccc; border: 2px solid; padding: 10px; float: left;}
+div.games {background-color: #cccccc; border: 2px solid; padding: 10px; float: left;}
