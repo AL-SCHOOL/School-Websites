@@ -1,8 +1,8 @@
-function home() {document.location='index.html';}
-function science() {document.location='classes/science';}
-function freshman_advisory() {document.location='classes/freshman-advisory';}
-function english() {document.location='classes/english';}
-function band() {document.location='classes/band';}
-function history() {document.location='classes/history';} 
-function spanish() {document.location='classes/spanish';}
-function algebra() {document.location='classes/algebra';}
+function home() {window.open("index.html");}
+function science() {window.open("classes/science.html");}
+function freshman_advisory() {window.open("classes/freshman-advisory");}
+function english() {window.open("classes/english");}
+function band() {window.open("classes/band");}
+function history() {window.open("classes/history.html");} 
+function spanish() {window.open("classes/spanish.html");}
+function algebra() {window.open("classes/algebra.html");}
