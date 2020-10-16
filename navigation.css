@@ -2,7 +2,7 @@
 .home {background-color: #808080; border: none; color: #ffffff; padding: 5px 20px; margin: -1px; text-align: center; cursor: pointer;}
 .home:hover {background-color: #404040; color: #ffffff;}
 .home:active {border: none;}
-div.home-align {margin-left: 100px; margin-right: 100px;}
+div.home-align {margin-left: 200px; margin-right: 200px;}
 
 /* Science */
 .science {background-color: #808080; border: none; color: #ffffff; padding: 5px 20px; margin: -1px; text-align: center; cursor: pointer;}
