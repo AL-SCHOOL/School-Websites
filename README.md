@@ -4,8 +4,7 @@
 - Website links will change every semester, depending on my classes.
 
 # To Do
-- Create different sections for each catagory.
+- Create different boxes for each catagory.
 - Switch Hyperlinks with images.
 - Change navigation buttons.
-  - Different colors for each subject.
   - Get rid of the boarder around the buttons.
