@@ -12,11 +12,11 @@ h2 {text-align: center;}
 div.websites {background-color: #ffffff; width: 250px; height: auto; text-align: left; border-style: solid; border-width: 2px; margin: 5px; float: left; padding: 10px;}
 
 /* Align */
-div.home-align {margin-left: 20%; margin-right: 20%}
-div.science-align {margin-left: 40%; margin-right: 40%}
-div.freshman-advisory-align {margin-left: 40%; margin-right: 40%}
-div.english-align {margin-left: 30%; margin-right: 30%}
-div.band-align {margin-left: 40%; margin-right: 40%}
-div.history-align {margin-left: 30%; margin-right: 30%}
-div.spanish-align {margin-left: 40%; margin-right: 40%}
-div.algebra-align {margin-left: 40%; margin-right: 40%}
+div.home-align {margin-left: 15%; margin-right: 15%}
+div.science-align {margin-left: 35%; margin-right: 35%}
+div.freshman-advisory-align {margin-left: 35%; margin-right: 35%}
+div.english-align {margin-left: 25%; margin-right: 25%}
+div.band-align {margin-left: 35%; margin-right: 35%}
+div.history-align {margin-left: 25%; margin-right: 25%}
+div.spanish-align {margin-left: 35%; margin-right: 35%}
+div.algebra-align {margin-left: 35%; margin-right: 35%}
