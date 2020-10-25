@@ -9,7 +9,7 @@ h1 {text-align: center;}
 h2 {text-align: center;}
 
 /* Dividers */
-div.websites {background-color: #ffffff; width: 200px; height: auto; text-align: left; border-style: solid; border-width: 2px; margin: 5px; float: left; padding: 10px;}
+div.websites {background-color: #ffffff; width: 250px; height: auto; text-align: left; border-style: solid; border-width: 2px; margin: 5px; float: left; padding: 10px;}
 
 /* Align */
 div.home-align {margin-left: 20%; margin-right: 20%}
