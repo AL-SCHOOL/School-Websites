@@ -4,9 +4,10 @@ header {background-color: #a6a6a6; padding: 15px;}
 nav {background-color: #808080; text-align: left; padding: 1px;}
 aside {background-color: #cccccc; text-align: left; padding: 30px;}
 
-/* Headers */
+/* Text */
 h1 {text-align: center;}
 h2 {text-align: center;}
+li {color: #0000ff;}
 
 /* Dividers */
 div.websites {background-color: #ffffff; width: 250px; height: auto; text-align: left; border-style: solid; border-width: 2px; margin: 5px; float: left; padding: 10px;}
