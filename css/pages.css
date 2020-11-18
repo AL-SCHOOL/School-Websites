@@ -11,8 +11,8 @@ h2 {text-align: center;}
 /* Links */
 a:link {color: #0000ff;}
 a:visited {color: #0000ff;}
-a:hover {color: #0000ff; font-weight:bold;}
-a:active {color: #0000ff; font-weight:bold;}
+a:hover {color: #0000ff;}
+a:active {color: #0000ff;}
 
 /* Dividers */
 div.websites {background-color: #ffffff; width: 250px; height: 200px; text-align: left; border-style: solid; border-width: 2px; margin: 5px; float: left; padding: 10px;}
