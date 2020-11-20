@@ -17,13 +17,4 @@ a:active {color: #0000ff;}
 /* Dividers */
 div.websites {background-color: #ffffff; width: 250px; height: 200px; text-align: left; border-style: solid; border-width: 2px; margin: 5px; float: left; padding: 10px;}
 div.summary {text-align: center;}
-
-/* Align */
-div.home-align {margin-left: 5%; margin-right: auto; height: 200px;}
-div.science-align {margin-left: 40%; margin-right: auto; height: 200px;}
-div.freshman-advisory-align {margin-left: 40%; margin-right: auto; height: 200px;}
-div.english-align {margin-left: 28%; margin-right: auto; height: 200px;}
-div.band-align {margin-left: 28%; margin-right: auto; height: 200px;}
-div.history-align {margin-left: 28%; margin-right: auto; height: 200px;}
-div.spanish-align {margin-left: 40%; margin-right: auto; height: 200px;}
-div.algebra-align {margin-left: 28%; margin-right: auto; height: 200px;}
+div.box-align {margin-left: 5%; margin-right: auto; height: 200px;}
