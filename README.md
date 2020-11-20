@@ -4,6 +4,8 @@
 - Website links will change every semester, depending on my classes.
 
 # To Do
+- Add footer.
+- Add about page.
 - Switch Hyperlinks with images.
 - Change navigation buttons.
   - Get rid of the boarder around the buttons.
