@@ -4,7 +4,9 @@
 - Website links will change every semester, depending on my classes.
 
 # To Do
-- Create different boxes for each catagory.
+- Add Footer.
+- Match amount of boxes.
+- Switch align.
 - Switch Hyperlinks with images.
 - Change navigation buttons.
   - Get rid of the boarder around the buttons.
