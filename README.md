@@ -9,3 +9,4 @@
 - Switch Hyperlinks with images.
 - Change navigation buttons.
   - Get rid of the boarder around the buttons.
+  - Make all buttons the same size.
