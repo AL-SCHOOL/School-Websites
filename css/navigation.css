@@ -39,6 +39,6 @@
 .algebra:active {border: none;}
 
 /* About */
-.home {background-color: #808080; border: none; color: #ffffff; padding: 10px 30px; margin: -1px; text-align: center; cursor: pointer;}
-.home:hover {background-color: #404040; color: #ffffff;}
-.home:active {border: none;}
+.about {background-color: #808080; border: none; color: #ffffff; padding: 10px 30px; margin: -1px; text-align: center; cursor: pointer;}
+.about:hover {background-color: #404040; color: #ffffff;}
+.about:active {border: none;}
